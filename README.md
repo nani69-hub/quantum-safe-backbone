@@ -26,5 +26,4 @@ This repository implements a **3-Layer Defense-in-Depth Model**:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/quantum-safe-backbone.git
-cd quantum-safe-backbone
+git clone https://github.com/nani69-hub/quantum-safe-backbone.git
